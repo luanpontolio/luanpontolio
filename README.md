@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/6892058/111561286-fd434d80-8772-11eb-9329-a11bed288542.gif" style="width: 400px; height: 400px; position: absolute">
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -8,42 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Solidity
 - 💬 Ask me about React, JS, Ruby on Rails
 - 📫 How to reach me: luan.pontolio@gmail.com
-
-<div>
-  <div className="me">
-        <div className="wrapper">
-          <div className="background-circle">
-            <div className="triangle-light"></div>
-            <div className="body"></div>
-            <div className="triangle-dark"></div>
-          </div>
-          <div className="head">
-            <div className="ear" id="left"></div>
-            <div className="ear" id="right"></div>
-            <div className="hair-main">
-              <div className="sideburn" id="left"></div>
-              <div className="sideburn" id="right"></div>
-              <div className="hair-top"></div>
-            </div>
-            <div className="face">
-              <div className="nose"></div>
-              <div className="eye-shadow" id="left">
-                <div className="eyebrow"></div>
-                <div className="eye"></div>
-              </div>
-              <div className="eye-shadow" id="right">
-                <div className="eyebrow"></div>
-                <div className="eye"></div>
-              </div>
-              <div className="mouth"></div>
-              <div className="shadow-wrapper">
-                <div className="shadow"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-</div>
 
 <!--
 **luanpontolio/luanpontolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
