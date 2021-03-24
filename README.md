@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, JS, Ruby on Rails
 - 📫 How to reach me: luan.pontolio@gmail.com
 
-[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpontolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpontolio)](https://github.com/luanpontolio/github-readme-stats)
 
 
 <!--
