@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/6892058/111561286-fd434d80-8772-11eb-9329-a11bed288542.gif" style="width: 200px; height: 200px; position: absolute">
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
