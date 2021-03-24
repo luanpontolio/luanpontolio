@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, JS, Ruby on Rails
 - 📫 How to reach me: luan.pontolio@gmail.com
 
-[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpontolio)](https://github.com/luanpontolio/github-readme-stats)
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpontolio&count_private=true&show_icons=true&theme=radical)](https://github.com/luanpontolio/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanpontolio&layout=compact&theme=radical)](https://github.com/luanpontolio/github-readme-stats)
+
 
 
 <!--
