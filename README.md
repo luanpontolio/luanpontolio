@@ -2,11 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a [Freelance](https://luanpontolio.herokuapp.com/)
-- 🌱 I’m currently learning Blockchain, Solidity, etc.
+- 🔭 I’m currently working as a [Ghost Labs](https://ghost.finance/)
+- 🌱 I’m currently working with Solidity+TypeScript ❤️.
 - 👯 I’m looking to collaborate on Dapp, Defi, and DAO
-- 🤔 I’m looking for help with Solidity
-- 💬 Ask me about React, JS/Typescript, Ruby on Rails
+- 💬 Ask me about React, JS/Typescript, Ruby on Rails, and Solidity
 - 📫 How to reach me: luan.pontolio@gmail.com
 
 [![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanpontolio&count_private=true&show_icons=true&theme=radical)](https://github.com/luanpontolio/github-readme-stats)
