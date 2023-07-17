@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a [Nftfy](https://nftfy.org)
+- 🔭 I’m currently working as a [Nubank](https://nubank.com.br/)
 - 🌱 Early contributor at [Ghost Labs](https://ghost.finance/)
 - 💬 I’m currently working with Solidity+TypeScript ❤️.
 - 👯 I’m looking to collaborate on Dapp, Defi, and DAO
