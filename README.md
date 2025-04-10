@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Full stack Web3 Developer at Nubank
+- 🔭 I’m currently working as a Full stack Web3 Developer at Picnic
 - 💬 I’m currently working with Solidity+TypeScript ❤️.
 - 👯 I’m looking to collaborate on Dapp, Defi, and DAO
 - 📫 How to reach me: luan.pontolio@gmail.com
